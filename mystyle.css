@@ -49,14 +49,14 @@ input[type=text]:focus {
     border: 3px solid #3feabc;
     outline: none;
   }
-input[type=textarea]:focus {
-    border: 3px solid #00976f;
-    outline: none;
-  }
+
 .hover:hover{
     background-color: aliceblue;
 }
 body {
     background-color: lightblue;
   }
-
+#wat:focus{
+  border: 3px solid #00976f;
+    outline: none;
+}
